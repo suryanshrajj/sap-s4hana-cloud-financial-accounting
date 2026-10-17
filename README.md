@@ -1,21 +1,26 @@
 # SAP S/4HANA Cloud Financial Accounting
 
-A portfolio documenting SAP S/4HANA Cloud Public Edition coursework, guided practical exercises, and individual SAP Learning course certificates.
+A portfolio of SAP Learning course certificates and guided practical exercises covering Financial Accounting processes in SAP S/4HANA Cloud Public Edition.
 
 ## Learning Areas
-- **Record-to-Report:** Accruals management, financial statement reporting, and posting processes.
-- **Accounts Receivable:** Down payments, Special G/L transactions, credit management, dunning, and dispute and collections management.
-- **Accounts Payable & Banking:** Invoice processing, payment runs, cash application, and bank statement processing.
+
+- **Record-to-Report (R2R):** Accruals Management, Financial Statement Reporting, and R2R Posting Processes.
+- **Accounts Receivable:** Down Payments, Special G/L Transactions, Credit Management, Dunning, Dispute and Collections Management, and Cash Application.
+- **Accounts Payable:** Process Automation for supplier invoice workflows.
 - **Asset Accounting:** Asset configuration, integration, and year-end closing activities.
+- **Payments & Banking:** Payment Run Configuration and Bank Statement Processing.
 
-## Course Certificates
-Individual certificates and badges from completed SAP Learning courses, documenting learning achievements across Financial Accounting and related ERP processes.
+## Certificates
 
-## Practical Exercises
-Guided exercises covering financial accounting workflows, ERP processes, and period-end activities.
+Individual SAP Learning course-completion certificates are included in the `certificates/` folder. Each certificate documents a completed course and can include its official verification link.
+
+## Practical Learning
+
+Guided exercises covering accounting workflows, payment processing, financial reporting, asset accounting, and period-end activities.
 
 ## Skills
-SAP S/4HANA Cloud Public Edition · Financial Accounting · ERP Processes · Accounts Receivable · Accounts Payable · Asset Accounting · Financial Reporting
+
+SAP S/4HANA Cloud Public Edition · Financial Accounting · ERP Processes · Record-to-Report · Accounts Receivable · Accounts Payable · Asset Accounting · Financial Reporting
 
 ---
 
